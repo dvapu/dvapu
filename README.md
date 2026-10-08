@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://github.com/dvapu">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=520&height=50&lines=Keep+calm+and+docker+compose+up+-d;Java+%C2%B7+Go+%C2%B7+Docker" alt="Typing banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&width=520&height=50&lines=Keep+calm+and+docker+compose+up+-d;Java+%C2%B7+Go+%C2%B7+Docker" alt="Typing banner" />
 </a>
 
 <p align="center">
